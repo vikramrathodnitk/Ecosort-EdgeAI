@@ -1,0 +1,16 @@
+# Deep learning and image handling
+torch>=2.0.0
+torchvision>=0.15.0
+pillow>=9.0.0
+
+# Exporting and running the ONNX model
+onnx>=1.14.0
+onnxruntime>=1.15.0
+
+# Data handling and calculations
+numpy>=1.22.0
+scikit-learn>=1.2.0
+
+# Progress display and plots
+tqdm>=4.65.0
+matplotlib>=3.7.0
